@@ -51,8 +51,7 @@ public class BrickConverter {
                 imageArray[i][j] = matchType;
             }
         }
-        System.out.println("typeSamples = " + typeSamples.size());
-        System.out.println("typeSamples = " + typeSamples);
+        System.out.println("iconCount = " + typeSamples.size());
         return imageArray;
     }
 
