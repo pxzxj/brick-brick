@@ -16,6 +16,8 @@ image::game.png[]
 4. 手动校准上一步生成的 `brick.txt` 文件
 5. 执行 `BrickResolver` 查看控制台输出的答案，根据答案继续游戏
 
+image::answer.png[]
+
 
 == 实现思路
 
